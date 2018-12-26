@@ -15547,8 +15547,8 @@
   word-wrap:break-word;
 }
 #u467 {
-  position:absolute;
-  left:936px;
+  position:fixed;
+  right:10px;
   top:0px;
 }
 #u467_state0 {
